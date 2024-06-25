@@ -1,60 +1,73 @@
+
+
 <p align="center">
   <a href="https://muhammed-yasin-portfolio.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Muhammed-Yasin-git/Yasiiin/main/images/yasin.jpeg" alt="my banner"></a>
 </p>
 
-<h3 align="center">
-Hi there, I'm <a href="https://muhammed-yasin-portfolio.vercel.app/" target="_blank" rel="noreferrer">Yasin</a> 👋
-</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=minhal9035&label=Profile%20views&color=0e75b6&style=flat" alt="minhal9035" /> </p>
 
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻 and Designer 🎨!
-</h2>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muhammed-Yasin-git" alt="Muhammed-Yasin-git" /></a> </p>
 
-👨‍💻 MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+<p align="left"> <a href="https://x.com/Muhd_Yasiiin" target="blank"><img src="https://img.shields.io/twitter/follow/Muhd_Yasiiin?logo=twitter&style=for-the-badge" alt="Muhd_Yasiiin" /></a> </p>
 
-- ✉️  You can contact me at [muhammedyasin8622@gmail.com](mailto:muhammedyasin8622@gmail.com)
-- 🧠  I'm learning React.js
-- 🤝  I'm open to collaborating on Web Development Projects Open, Source Contributions
 
-### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/muhammed-yasin-5b2149277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/mhd.yasiiin_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://x.com/Muhd_Yasiiin?t=Ccyv6_enspaKRszfUm5lJw&s=09"><img align="left" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 🌱 I’m currently learning **MERN**
 
-## 🔭 I'm currently working on
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Muhammed-Yasin-git?tab=repositories)
 
-- Updating the Previous project
-- SkillUp E-Learning platform (MERN)
-- Sell your work platform (Working on it soon...)
-- Problem Solving Skills
+- 💬 Ask me about **javascript,express,nodejs,mongodb,Data Structure,React**
 
-## 🌱 I'm currently learning
+- 📫 How to reach me **muhammedyasin8622@gmail.com**
 
-- React.js
-- Redux
+- ⚡ Fun fact : Passionate about football, avid reader, coding enthusiast, a video gamer, and
+- relentless problem solver 
+- constantly seeking new challenges to conquer.
 
-## 💼 Technical Skills
 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind css" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" **alt="Git" width="40" height="40"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mhd_minhal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/Muhd_Yasiiin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-yasiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammed Yasin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mhd.yasiiin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhd.yasiiin_" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/muhammedyasin8622/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/muhammedyasin8622/" height="30" width="40" /></a>
+</p>
 
-</div>
+## 🛠️ Skills
 
-</br>
+### Languages
+
+![C](https://img.shields.io/badge/C-317823?style=for-the-badge&logo=C%20&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Front-End Development
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Back-End Development
+
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![nginx](https://img.shields.io/badge/Nginx-009900?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Database
+
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps
+
+![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Design Tools
+
+![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Yasin-git&show_icons=true&locale=en&layout=compact" alt="Muhammed-Yasin-git" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Yasin-git&show_icons=true&locale=en" alt="Muhammed-Yasin-git" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Yasin-git&" alt="Muhammed-Yasin-git" /></p>
