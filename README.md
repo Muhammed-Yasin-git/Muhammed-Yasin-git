@@ -68,6 +68,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Yasin-git&show_icons=true&locale=en&layout=compact" alt="Muhammed-Yasin-git" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Yasin-git&show_icons=true&locale=en" alt="Muhammed-Yasin-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-Yasin-git&" alt="Muhammed-Yasin-git" /></p>
